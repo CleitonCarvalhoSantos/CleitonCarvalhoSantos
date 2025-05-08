@@ -19,5 +19,5 @@
 <div> 
   <a href="https://instagram.com/cleiton.carv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:cc824416@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href ="https://www.facebook.com/profile.php?id=100079449340964"><img src="![Static Badge](https://img.shields.io/badge/!%5BFacebook%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FFollow%2520Us-Facebook-blue%3Flogo%3Dfacebook)) target="_blank"></a>
+ <a href ="https://www.facebook.com/profile.php?id=100079449340964"><<img alt="Static Badge" src="https://img.shields.io/badge/!%5BFacebook%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FFollow%2520Us-Facebook-blue%3Flogo%3Dfacebook)" target="_blank"></a>
 </div>
