@@ -21,5 +21,5 @@
 <a 
 href="mailto:cc824416@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a 
-href="https://www.facebook.com/profile.php?id=100079449340964"><img src="https://img.shields.io/badge/faceboo-blue?style=forthebadge&logo=facebook&logocolor=white" target="_blank"></a>
+href="https://www.facebook.com/profile.php?id=100079449340964"><img src="https://img.shields.io/badge/facebook-blue?style=forthebadge&logo=facebook&logocolor=white" target="_blank"></a>
 </div>
